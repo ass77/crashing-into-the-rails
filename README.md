@@ -10,14 +10,13 @@ rails new test-article --api
 
 ```bash
 bundle install
+gem install <package_name>
 ```
-
-- gem install <package>
 
 - Start server
 
 ```bash
-rails s
+rails server
 ```
 
 - generate model
